@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="accessibility_display_daltonizer_preference_subtitle">Mit der Farbkorrektur kannst du anpassen, wie Farben auf deinem Display angezeigt werden</string>
+    <string name="accessibility_display_daltonizer_preference_subtitle">Mit der Farbkorrektur können Sie anpassen, wie Farben auf Ihrem Display angezeigt werden</string>
 <!-- not translated -->
     <string name="accessibility_work_profile_app_description">Work %s</string>
     <string name="accessor_expires_text">Freigabe läuft am %s ab</string>
@@ -13,25 +13,25 @@
     <string name="adb_pair_method_qrcode_summary">Neue Geräte über QR-Codescanner koppeln</string>
     <string name="adb_pair_method_qrcode_title">Gerät über einen QR-Code koppeln</string>
     <string name="adb_paired_devices_title">Gekoppelte Geräte</string>
-    <string name="adb_pairing_device_dialog_failed_msg">Prüfe, ob das Gerät mit demselben Netzwerk verbunden ist.</string>
+    <string name="adb_pairing_device_dialog_failed_msg">Prüfen Sie, ob das Gerät mit demselben Netzwerk verbunden ist.</string>
     <string name="adb_pairing_device_dialog_failed_title">Kopplung fehlgeschlagen</string>
     <string name="adb_pairing_device_dialog_pairing_code_label">WLAN-Kopplungscode</string>
     <string name="adb_pairing_device_dialog_title">Mit Gerät koppeln</string>
     <string name="adb_qrcode_pairing_device_failed_msg">Das Gerät konnte nicht gekoppelt werden. Der QR-Code war nicht korrekt oder das Gerät ist nicht mit demselben Netzwerk verbunden.</string>
-    <string name="adb_wireless_connection_failed_message">Prüfe, ob %1$s mit dem richtigen Netzwerk verbunden ist</string>
+    <string name="adb_wireless_connection_failed_message">Prüfen Sie, ob %1$s mit dem richtigen Netzwerk verbunden ist</string>
     <string name="adb_wireless_connection_failed_title">Verbindung fehlgeschlagen</string>
     <string name="adb_wireless_device_connected_summary">Derzeit verbunden</string>
     <string name="adb_wireless_device_details_title">Gerätedetails</string>
     <string name="adb_wireless_error">Fehler</string>
     <string name="adb_wireless_ip_addr_preference_title">IP-Adresse &amp; Port</string>
-    <string name="adb_wireless_list_empty_off">Aktiviere \"Debugging über WLAN\", um verfügbare Geräte zu sehen und zu verwenden</string>
-    <string name="adb_wireless_no_network_msg">Bitte stell eine WLAN-Verbindung her</string>
-    <string name="adb_wireless_qrcode_pairing_description">Scanne einen QR-Code, um ein Gerät über WLAN zu koppeln</string>
+    <string name="adb_wireless_list_empty_off">Aktivieren Sie \"Debugging über WLAN\", um verfügbare Geräte zu sehen und zu verwenden</string>
+    <string name="adb_wireless_no_network_msg">Bitte stellen Sie eine WLAN-Verbindung her</string>
+    <string name="adb_wireless_qrcode_pairing_description">Scannen Sie einen QR-Code, um ein Gerät über WLAN zu koppeln</string>
     <string name="adb_wireless_qrcode_pairing_title">QR-Code scannen</string>
-    <string name="adb_wireless_qrcode_summary">Scanne einen QR-Code, um das Gerät über WLAN zu koppeln</string>
+    <string name="adb_wireless_qrcode_summary">Scannen Sie einen QR-Code, um das Gerät über WLAN zu koppeln</string>
     <string name="adb_wireless_settings">Debugging über WLAN</string>
     <string name="adb_wireless_verifying_qrcode_text">Gerät wird gekoppelt…</string>
-    <string name="adbwifi_warning_message">\"Debugging über WLAN\" ist nur für Entwicklungszwecke vorgesehen. Damit kannst du Daten zwischen deinem Computer und deinem Gerät kopieren, Apps auf deinem Gerät ohne Benachrichtigung installieren und Protokolldaten lesen.</string>
+    <string name="adbwifi_warning_message">\"Debugging über WLAN\" ist nur für Entwicklungszwecke vorgesehen. Damit können Sie Daten zwischen Ihrem Computer und Ihrem Gerät kopieren, Apps auf Ihrem Gerät ohne Benachrichtigung installieren und Protokolldaten lesen.</string>
     <string name="adbwifi_warning_title">\"Debugging über WLAN\" zulassen?</string>
     <string name="auto_connect_disable">Automatische Verbindung ist deaktiviert</string>
     <string name="available_via_app">Über %1$s verfügbar</string>
@@ -76,32 +76,32 @@
     <string name="power_remaining_only_more_than_subtext">Mehr als %1$s verbleibend</string>
     <string name="power_suggestion_battery_run_out">Der Akku ist voraussichtlich um %1$s leer</string>
     <string name="private_dns_broken">Auf den privaten DNS-Server kann nicht zugegriffen werden</string>
-    <string name="profile_connect_timeout_subtext">Verbindung kann nicht hergestellt werden. Schalte das Gerät aus &amp; und wieder ein.</string>
+    <string name="profile_connect_timeout_subtext">Verbindung kann nicht hergestellt werden. Schalten Sie das Gerät aus &amp; und wieder ein.</string>
     <string name="profile_info_settings_title">Profilinformationen</string>
     <string name="shared_data_delete_failure_text">Beim Löschen der geteilten Daten ist ein Fehler aufgetreten.</string>
-    <string name="shared_data_no_accessors_dialog_text">Für diese geteilten Daten gibt es keine Freigaben. Möchtest du sie löschen?</string>
+    <string name="shared_data_no_accessors_dialog_text">Für diese geteilten Daten gibt es keine Freigaben. Möchten Sie sie löschen?</string>
     <string name="shared_data_no_blobs_text">Es gibt keine geteilten Daten für diesen Nutzer.</string>
-    <string name="shared_data_query_failure_text">Beim Abrufen der geteilten Daten ist ein Fehler aufgetreten. Versuch es noch einmal.</string>
+    <string name="shared_data_query_failure_text">Beim Abrufen der geteilten Daten ist ein Fehler aufgetreten. Versuchen Sie es noch einmal.</string>
     <string name="shared_data_summary">Geteilte Daten anzeigen und ändern</string>
     <string name="shared_data_title">Geteilte Daten</string>
     <string name="storage_category">Speicher</string>
     <string name="tap_to_renew_subscription_and_connect">Tippen, um das Abo zu verlängern und eine Verbindung herzustellen</string>
-    <string name="user_add_profile_item_summary">Du kannst den Zugriff auf Apps und Inhalte aus deinem Konto beschränken.</string>
+    <string name="user_add_profile_item_summary">Sie können den Zugriff auf Apps und Inhalte aus Ihrem Konto beschränken.</string>
     <string name="user_add_profile_item_title">Eingeschränkte Profile</string>
     <string name="user_add_user_item_summary">Die Nutzer haben eigene Apps und Inhalte.</string>
     <string name="user_add_user_item_title">Nutzer</string>
-    <string name="user_add_user_message_long">"Du kannst dieses Gerät zusammen mit anderen nutzen, indem du weitere Nutzer erstellst. Jeder erhält einen eigenen Bereich, in dem er Apps, den Hintergrund usw. personalisieren kann. Außerdem lassen sich Geräteeinstellungen wie WLAN ändern, die sich auf alle Nutzer auswirken.
+    <string name="user_add_user_message_long">"Sie können dieses Gerät zusammen mit anderen nutzen, indem Sie weitere Nutzer erstellen. Jeder erhält einen eigenen Bereich, in dem er Apps, den Hintergrund usw. personalisieren kann. Außerdem lassen sich Geräteeinstellungen wie WLAN ändern, die sich auf alle Nutzer auswirken.
 
-Wenn du einen neuen Nutzer hinzufügst, muss dieser seinen Bereich einrichten.
+Wenn Sie einen neuen Nutzer hinzufügen, muss dieser seinen Bereich einrichten.
 
 Jeder Nutzer kann Apps für alle anderen Nutzer aktualisieren. Bedienungshilfen-Einstellungen und -Dienste werden möglicherweise nicht auf den neuen Nutzer übertragen."</string>
-    <string name="user_add_user_message_short">"Wenn du einen neuen Nutzer hinzufügst, muss dieser seinen Bereich einrichten.
+    <string name="user_add_user_message_short">"Wenn Sie einen neuen Nutzer hinzufügen, muss dieser seinen Bereich einrichten.
 
 Jeder Nutzer kann Apps für alle anderen Nutzer aktualisieren."</string>
     <string name="user_add_user_title">Neuen Nutzer hinzufügen?</string>
     <string name="user_add_user_type_title">Hinzufügen</string>
     <string name="user_info_settings_title">Nutzerinformationen</string>
-    <string name="user_need_lock_message">Vor dem Erstellen eines eingeschränkten Profils musst du eine Displaysperre einrichten, um deine Apps und personenbezogenen Daten zu schützen.</string>
+    <string name="user_need_lock_message">Vor dem Erstellen eines eingeschränkten Profils müssen Sie eine Displaysperre einrichten, um Ihre Apps und personenbezogenen Daten zu schützen.</string>
     <string name="user_new_profile_name">Neues Profil</string>
     <string name="user_new_user_name">Neuer Nutzer</string>
     <string name="user_set_lock_button">Sperre einrichten</string>
