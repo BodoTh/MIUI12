@@ -167,7 +167,7 @@
   <string name="payphone">Münztelefon</string>
   <string name="picking_participant">Kontaktinfo erhalten…</string>
   <string name="private_num">Unbekannt</string>
-  <string name="prompt_no_volte_when_failed">Anrufe nicht möglich. Ihr Gerät muss an ein 4G-Netz mit VoLTE-Unterstützung angeschlossen sein.</string>
+  <string name="prompt_no_volte_when_failed">Anrufe nicht möglich. Ihr Gerät muss mit einem 4G-Netz mit VoLTE-Unterstützung verbunden sein.</string>
   <string name="remind_unlock_message">Ihr Gerät ist jetzt gesperrt. Nach Entsperrung des Geräts wird \"%s\" verfügbar sein. Jetzt entsperren?</string>
   <string name="respond_via_sms_custom_message">Eigene SMS</string>
   <string name="select_audio_dialog_title">Antwortmodus auswählen</string>
@@ -177,7 +177,7 @@
   <string name="select_sim_hint_for_heduohao">Kann keine anderen verwenden, während SIM %1$d Sub %2$d verwendet wird.</string>
   <string name="select_voice_call_sim">SIM-Karte auswählen</string>
   <string name="separate_from_conference">Anruf trennen</string>
-  <string name="sip_call_not_support_record">Aufname von SIP-Anrufen nicht möglich</string>
+  <string name="sip_call_not_support_record">Aufnahme von SIP-Anrufen nicht möglich</string>
   <string name="supp_service_notification_call_waiting">Die von Ihnen gewählte Nummer ist besetzt. Bitte warten…</string>
   <string name="suspect_info">Seien Sie vorsichtig mit Ihren persönlichen Daten.</string>
   <string name="unknown">Unbekannt</string>
