@@ -343,7 +343,7 @@
   <string name="cleaner_scan_exit_dialog_positive">Beenden</string>
   <string name="cleaner_scan_exit_dialog_title">Scannen beenden</string>
   <string name="cleaner_scan_finish">Erfolgreich gescannt</string>
-  <string name="cleaner_scan_no_result">Es wurde keine Speicherplatz frei</string>
+  <string name="cleaner_scan_no_result">Es wurde kein Speicherplatz geschaffen</string>
   <string name="cleaner_scan_ok">Fertig</string>
   <string name="cleaner_scan_title">Alben scannen…</string>
   <string name="cleaner_screen_shot_action">Ansehen</string>
